@@ -3,8 +3,9 @@ package cdlb1;
 class hitung {
     int a = 1;
     int b = 3;
+    int c = 4;
 
-    int jumlah = a + b ;
+    int jumlah = a + c ;
 }
 
 public class main {
