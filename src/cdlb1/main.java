@@ -5,7 +5,7 @@ class hitung {
     int b = 3;
     int c = 4;
 
-    int jumlah = a + c ;
+    int jumlah = a + c + b ;
 }
 
 public class main {
